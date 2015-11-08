@@ -1,0 +1,13 @@
+(Question)
+What happens when you initialize a repository? Why do you need to do it?
+
+(Answer)
+A new .git file is created to hold your repository contents.This is the first step in the process.
+
+(Question)
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+(Answer)
+The staging area is the area when files are added in preporation for the commit.
+The working directory is the area where the file reside on your desktop for eaxample.
+The repository it where the commits are stored. Normally the file containing the repository is .git.
