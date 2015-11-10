@@ -20,3 +20,10 @@ Once you add the files to the staging area you can run git diff to see any chang
 between the staging area and the work space.
 You can also run git diff --staged to see the changes between the files in the staging area copare to
 the most recent commit
+
+(Question)
+How do the diagrams help you visualize the branch structure?
+
+(Answer)
+Using Git log --graph --oneline helps form a visual of your master and branches.
+Any comits made in a detached hed state will be lost because there id no way to retain the ids in a git log command.
