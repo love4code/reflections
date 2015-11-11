@@ -27,3 +27,10 @@ How do the diagrams help you visualize the branch structure?
 (Answer)
 Using Git log --graph --oneline helps form a visual of your master and branches.
 Any comits made in a detached hed state will be lost because there id no way to retain the ids in a git log command.
+
+(Question)
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+(Answer)
+when we merge two branches together it gives us access to all the commits from both branches in the master branch.
+If we delete the branch we meant to merge before hand we will lose those commits forever.
