@@ -9,3 +9,15 @@ Why might you want to always pull changes manually rather than having Git automa
 
 (Answer)
 You don't want auto update features Because you dont want unfiniwhed work being updated. It could break your application.
+
+(Question)
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+(Answer)
+When you want to modify someone elses repository but want to be able to let people see where your code stemmed from you can fork it
+and make it your own,
+
+You can clone your own or another repository using git clone in the terminal.
+
+Branches are used to add features to an aplication without interfering with the main aplication. when the feature is ready you can merge the
+branch.
