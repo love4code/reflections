@@ -21,3 +21,9 @@ You can clone your own or another repository using git clone in the terminal.
 
 Branches are used to add features to an aplication without interfering with the main aplication. when the feature is ready you can merge the
 branch.
+
+(Question)
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+(Answer)
+Having an upto date version allows you to work off line and and update when you get back online.
